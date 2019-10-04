@@ -51,7 +51,7 @@ export default {
         sha2: 'SHA2',
         title: 'タイトル',
         contributors: '共同研究者',
-        modified: '修正済',
+        modified: '最終更新日',
         description: '説明',
         create: '作成',
         and: 'and',
@@ -213,7 +213,7 @@ export default {
         title: 'ダッシュボード',
         create_new_project_button: '新規プロジェクトを作成',
         quicksearch: {
-            search: 'プロジェクト内を検索',
+            search: 'プロジェクトを検索',
             other_links: 'あなたの仕事を整理したり、OSFを<a href="/search/">検索</a>するには、<a href="/myprojects/">My Projects</a>へ行きます。',
             no_results: 'プロジェクトが見つかりません。',
             no_projects: {
