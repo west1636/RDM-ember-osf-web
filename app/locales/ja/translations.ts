@@ -1895,7 +1895,7 @@ export default {
         deposit_button: '論文登録申請',
         check_button: '画像スキャン依頼',
         edit_button: '編集',
-        management_project: 'プロジェクト管理',
+        management_project: '管理プロジェクト',
         flowable_task_service: 'Flowableタスクサービス',
         deposit_help: '論文登録を行い承認を得るための申請手続きを実行',
         check_help: '論文登録前に画像のみのスキャンサービスを実行',
